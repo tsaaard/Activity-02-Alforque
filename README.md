@@ -1,1 +1,3 @@
-# Activity-02-Alforque
+# Pokemon Attack Calculator
+
+Calculate the damage value of a pokemon to its enemy
